@@ -1,7 +1,7 @@
 Advanced Testing Techniques Presentation
 ========================================
 
-[Download PowerPoint](https://github.com/robdmoore/AdvancedTestingTechniquesPresentation/raw/master/Presentation.pptx) | [Watch video](https://www.youtube.com/watch?v=PuCZpvY9VnI)
+[Download PowerPoint](https://github.com/robdmoore/AdvancedTestingTechniquesPresentation/raw/master/Presentation.pptx) | [Watch video (DDD Perth)](https://www.youtube.com/watch?v=PuCZpvY9VnI) | [Watch video (NDC Sydney)](https://www.youtube.com/watch?v=rSY-zqDfc_s)
 
 Title
 -----
